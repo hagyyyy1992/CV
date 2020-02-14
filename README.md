@@ -161,4 +161,4 @@ Githubフローによるバージョン運用を導入し、マイナーバー�
 |2020/02|Golang x Beego x Docker x CircleCI x npmで開発環境をサクッと作ってみよう|https://qiita.com/hagyyyy/items/f55f1a4215af91d07260|
 |2018/05|Django x Docker|https://qiita.com/hagyyyy/items/466b5bab67118175be65|
 |2018/03|Dockerでローカル開発環境を作り、AWS-ECSにデプロイする|https://qiita.com/hagyyyy/items/959c115e0a5001972604|
-|2017/12|Python Djangoでherokuにデプロイしてみた|https://cloudpayment-sys.connpass.com/event/80092/|
+|2017/12|Python Djangoでherokuにデプロイしてみた|https://qiita.com/hagyyyy/items/466b5bab67118175be65|
