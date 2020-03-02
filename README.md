@@ -10,35 +10,31 @@
 |SlideShare|[Keiichi Hagiwara](https://www.slideshare.net/ssuserde3f3f)|
 
 ## スキル
-### 言語
-- フロントエンド
-  - HTML
-  - CSS(Scss)
-  - JavaScript(Vue.js2系,Vuex,vue-router,atomic design)
-- バックエンド
-  - PHP7系
-  - CakePHP3系
-  - MySQL5系
-- バージョン管理
-  - Git (GitHub)
-- CI/CD,インフラ
-  - CircleCI
-  - Docker, docker-compose
-  - AWS EC2, VPC, Route53, S3, RDS, Aurora, CodePipeline, CodeBuild
+
+- 言語
+  - HTML, CSS, JavaScript, PHP
+- フレームワーク
+  - Codeigniter, CakePHP, Vue.js
+- RDB
+  - MySQL
+- AWS
+  - EC2, ECS, VPC, Route53, S3, RDS Aurora, Cloud Watch, CodeBuild, CodePipeline, IAM, SES 
 - その他
-  - CodeIgniter(前職)
-  - Laravel(趣味)
-  - Python,Django(趣味)
-  - Golang,Beego(趣味)
+  - Git, Github, Circle CI, PHPUnit, Scss, BEM, Gulp, webpack, npm, package.json, SPA, Atomic Design, Storybook, Vue
+Router, Vuex, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Makefile, Sider, pay.jp
+- プライベートで触れたことのある技術 
+  - Laravel, Python, Django, Go, Beego, Gin
 
 ## 強み
 
-- 何事も自分ごととして考える主体性とまずはやってみる行動力
-- PHPでのウェブアプリケーション開発経験3年
-- ウェブアプリケーションを企画から参画し0から開発した経験
-- フロントエンド、バックエンド、インフラなど幅広いレイヤーの経験
+- PHP を使ったアプリケーション開発(Codeigniter1 年、CakePHP1 年半) 
+- 要件定義、詳細設計、実装、テスト、リリースなどの上流から下流までの一気通貫した経験 
+- 環境のコンテナ化、環境構築の自動化、デバッガ環境の構築、CI 環境の構築など開発効率化の経験
+- git-flow でのバージョン管理の導入、staging 環境の導入、プロジェクト管理ツールの導入などの運用フローの構築経験 
+- ウェブアプリケーションを企画から参画し 0 から開発した経験 
+- フロントエンド、バックエンド、インフラなど幅広いレイヤーの経験 
 - マネジメント,チームビルディング,ビジネスサイドとの調整などの経験
-- wantedly,twitter,勉強会などあらゆる経路からの採用実績
+- Wantedly, SNS, 勉強会、リファラルなどあらゆる経路からの採用実績
 
 - ストレングスファインダー
   - 自我
