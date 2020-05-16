@@ -62,7 +62,14 @@ Router, Vuex, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Makefile, 
   予算に対する実績、お金の動きを理解しながら動ける人になりたいです。
 
 ## 職務経歴
-### 2018/9 - 現在 : GVA TECH株式会社
+
+### 2020/5 - 現在 : 合同会社DMM.com
+
+職務：Webエンジニア、サーバーサイドエンジニア
+
+サービス内容: オンラインサロン
+
+### 2018/9 - 2020/4 : GVA TECH株式会社
 
 職務：Webエンジニア、サーバーサイドエンジニア、開発リーダー
 
