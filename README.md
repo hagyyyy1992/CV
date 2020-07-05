@@ -14,20 +14,20 @@
 - 言語
   - HTML, CSS, JavaScript, PHP
 - フレームワーク
-  - Codeigniter, CakePHP, Vue.js
+  - Codeigniter, CakePHP, Laravel, Vue.js,React
 - RDB
   - MySQL
 - AWS
-  - EC2, ECS, VPC, Route53, S3, RDS Aurora, Cloud Watch, CodeBuild, CodePipeline, IAM, SES 
+  - EC2, ECS, VPC, Route53, S3, RDS Aurora, Cloud Watch, CodeBuild, CodePipeline, IAM, SES, Elastic Beanstalk
 - その他
   - Git, Github, Circle CI, PHPUnit, Scss, BEM, Gulp, webpack, npm, package.json, SPA, Atomic Design, Storybook, Vue
-Router, Vuex, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Makefile, Sider, pay.jp
+Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Makefile, Sider, pay.jp
 - プライベートで触れたことのある技術 
   - Laravel, Python, Django, Go, Beego, Gin
 
 ## 強み
 
-- PHP を使ったアプリケーション開発(Codeigniter1 年、CakePHP1 年半) 
+- PHP を使ったアプリケーション開発(Codeigniter1 年、CakePHP1 年半、Laravel) 
 - 要件定義、詳細設計、実装、テスト、リリースなどの上流から下流までの一気通貫した経験 
 - 環境のコンテナ化、環境構築の自動化、デバッガ環境の構築、CI 環境の構築など開発効率化の経験
 - git-flow でのバージョン管理の導入、staging 環境の導入、プロジェクト管理ツールの導入などの運用フローの構築経験 
