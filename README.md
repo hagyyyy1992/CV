@@ -5,16 +5,24 @@
 |key|value|
 |---|-----|
 |Name|萩原圭市(Keiichi Hagiwara)|
-|Twitter|[@hagyyyy](https://twitter.com/hagyyyy1992)|
-|Qiita|[hagyyyy](https://qiita.com/hagyyyy)|
-|SlideShare|[Keiichi Hagiwara](https://www.slideshare.net/ssuserde3f3f)|
+|Twitter|https://twitter.com/hagyyyy1992|
+|Facebook|https://www.facebook.com/hagyyyy1992/|
+|LinkedIn|https://www.linkedin.com/in/hagyyyy1992/|
+|Qiita|https://qiita.com/hagyyyy|
+|SlideShare|https://www.slideshare.net/ssuserde3f3f|
 
 ## スキル
 
-- 言語
-  - HTML, CSS, JavaScript, PHP
-- フレームワーク
-  - Codeigniter, CakePHP, Laravel, Vue.js,React
+- 言語・フレームワーク
+  - HTML
+  - CSS
+  - JavaScript
+    - Vue.js
+    - React
+  - PHP
+    - Codeigniter
+    - CakePHP
+    - Laravel
 - RDB
   - MySQL
 - AWS
@@ -69,27 +77,32 @@ Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Mak
 
 サービス内容: オンラインサロン
 
+主な業務内容
+クライアント側、サーバー側の両方の改修が必要な不具合修正
+仕様変更を伴う機能改修
+ログやDB調査が必要な障害対応
+
 ### 2018/9 - 2020/4 : GVA TECH株式会社
 
 職務：Webエンジニア、サーバーサイドエンジニア、開発リーダー
 
 サービス内容: 法人登記書類作成支援サービス
 
-- 新規プロダクト開発時の業務内容
+- 新規プロダクト開発
   - プロダクトの企画段階から参画。要件をヒアリングしながら仕様の取りまとめと詳細設計を行う。
 様々なレベル間のエンジニアが参画することから「設定より規約」を重視して、言語はPHP、フレームワークはCakePHPを採択。Dockerとdocker-composeを用いてローカル開発環境の構築を行い、デバッガツールXdebugの設定などを行った。環境構築はMakefileを用いて自動化をさせた。
 インフラはAWSを用いて、EC2、ALB、VPC、Route53、CloudWatchなどの構築、その他、ドメイン取得のためSSL証明書の設定、決済代行サービスの設定などを行う。
 上記作業完了後はサーバーサイドの設計と開発に従事。
 2019年1月に無事ローンチすることができた。
 
-- プロダクトローンチ後の業務内容
+- サービスリリース後
   - プロジェクト管理ツールBacklogの導入を行いチケット駆動の開発体制を構築。
 安定的な運用のためオーガニゼーションを分けてステージング環境の構築を行い、CircleCIを用いてCICDの構築をした。
 Githubフローによるバージョン運用を導入し、マイナーバージョンアップではステージングで動作確認後リリースするように運用した。
 ローカルとCircleCI上でテスト実行を行えるようにテストコード環境を構築し、TDDで開発できるようにした。
 また０→１開発で生まれた技術的負債（多岐にわたるコードの重複など）の解決のため大幅なリファクタリングを行う。
 
-- サーバーサイドエンジニアとしての主要な開発内容
+- 主な開発実績
   - 社内用管理画面の開発
     - ログイン機能
     - ログアウト機能
@@ -103,7 +116,7 @@ Githubフローによるバージョン運用を導入し、マイナーバー�
     - 購入書類の返金機能（管理画面）
     - 購入書類の編集・保存などのサーバーサイド側の開発
 
-- PMとしての業務内容
+- その他業務実績
   - ビジネスサイドと開発サイドのバランスを取るべく現実的な計画を提示し期待値調整を測りながら、無理なく開発計画を遂行できるよう調整。
   - 開発状況把握や心理的安全性向上のためメンバーとの1on1を週1~月1間隔で実施し、開発進捗の取りまとめ、チームの士気向上に寄与。
   - ビジネスサイド、デザインサイド、リーガルサイドとの新規機能仕様打ち合わせ
