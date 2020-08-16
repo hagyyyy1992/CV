@@ -7,8 +7,8 @@
 |Name|萩原圭市(Keiichi Hagiwara)|
 |Twitter|https://twitter.com/hagyyyy1992|
 |Facebook|https://www.facebook.com/hagyyyy1992/|
-|LinkedIn|https://www.linkedin.com/in/hagyyyy1992/|
 |Qiita|https://qiita.com/hagyyyy1992|
+|LinkedIn|https://www.linkedin.com/in/hagyyyy1992/|
 |SlideShare|https://www.slideshare.net/ssuserde3f3f|
 
 ## スキル
