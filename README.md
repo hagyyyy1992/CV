@@ -1,6 +1,6 @@
-# 職務経歴書
+# Curriculum-Vitae
 
-## 基本情報
+## Basic-Information
 
 |key|value|
 |---|-----|
@@ -11,7 +11,7 @@
 |LinkedIn|https://www.linkedin.com/in/hagyyyy1992/|
 |SlideShare|https://www.slideshare.net/ssuserde3f3f|
 
-## スキル
+## Skill
 
 - 言語・フレームワーク
   - HTML
@@ -33,7 +33,7 @@ Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Mak
 - プライベートで触れたことのある技術 
   - Laravel, Python, Django, Go, Beego, Gin
 
-## 強み
+## Strengths
 
 - PHP を使ったアプリケーション開発(Codeigniter1 年、CakePHP1 年半、Laravel) 
 - 要件定義、詳細設計、実装、テスト、リリースなどの上流から下流までの一気通貫した経験 
@@ -51,7 +51,7 @@ Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Mak
   - 最上志向
   - 調和性
 
-## 今後挑戦したいこと
+## Will
 
 - テックリードとしてチームを引っ張れる人になる
   - 自分より優秀なエンジニアに納得感を持ってついてきてもらうためにも常に自分の技術力は高め続けていきたいです。
@@ -65,7 +65,7 @@ Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Mak
   ビジネス的な視座を高めていき提案したり企画できるようになっていきたいです。
   また事業のスピードと技術のバランスに偏りが発生しないように、ビジネスサイドとエンジニアサイドの橋渡しになり両サイドから信頼される存在になります。
 
-## 職務経歴
+## Job career
 
 ### 2020/5 - 現在 : D社
 
@@ -156,7 +156,7 @@ Githubフローによるバージョン運用を導入し、マイナーバー�
   - 紹介
   - 入社後フォロー
 
-### 登壇歴
+### Presentation
 
 |Date|Event|Link|
 |---|-----|---|
@@ -165,7 +165,7 @@ Githubフローによるバージョン運用を導入し、マイナーバー�
 |2018/03/26|【大学生・大学院生限定！】AWS+Dockerハンズオン|https://cloudpayment-sys.connpass.com/event/80092/|
 |2017/12/12|【大学生・大学院生限定！】Pythonを使ったWEBアプリケーションの作り方|https://cloudpayment-sys.connpass.com/event/70358/|
 
-### 執筆歴
+### Writing
 |Date|Title|Article|
 |---|-----|---|
 |2020/02|Golang x Beego x Docker x CircleCI x npmで開発環境をサクッと作ってみよう|https://qiita.com/hagyyyy/items/f55f1a4215af91d07260|
