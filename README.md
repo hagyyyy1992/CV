@@ -249,15 +249,15 @@ Githubフローによるバージョン運用を導入し、マイナーバー�
 |Date|Event|Link|
 |---|-----|---|
 |2021/02/24|歪なモノリシックアプリケーションをマイクロサービスパターンで未来につなげる話|[speakerdeck](https://speakerdeck.com/hagyyyy/wai-namofalserisitukuapurikesiyonwomaikurosabisupatandewei-lai-nitunageruhua) [logmi tech](https://logmi.jp/tech/articles/324514) |
-|2019/06/18|あるあるLT〜サーバーサイドエンジニア〜 Vol.3|https://www.slideshare.net/ssuserde3f3f/hagiwara-ltpresentation-php-and-cakephp-150282990|
-|2019/06/08|サービスリリースから安定軌道に乗せるまでに行った開発施策|https://www.slideshare.net/ssuserde3f3f/ss-149813668|
-|2018/03/26|【大学生・大学院生限定！】AWS+Dockerハンズオン|https://cloudpayment-sys.connpass.com/event/80092/|
-|2017/12/12|【大学生・大学院生限定！】Pythonを使ったWEBアプリケーションの作り方|https://cloudpayment-sys.connpass.com/event/70358/|
+|2019/06/18|あるあるLT〜サーバーサイドエンジニア〜 Vol.3|[slideshare](https://www.slideshare.net/ssuserde3f3f/hagiwara-ltpresentation-php-and-cakephp-150282990)|
+|2019/06/08|サービスリリースから安定軌道に乗せるまでに行った開発施策|[slideshare](https://www.slideshare.net/ssuserde3f3f/ss-149813668)|
+|2018/03/26|【大学生・大学院生限定！】AWS+Dockerハンズオン|[connpass](https://cloudpayment-sys.connpass.com/event/80092/)|
+|2017/12/12|【大学生・大学院生限定！】Pythonを使ったWEBアプリケーションの作り方|[connpass](https://cloudpayment-sys.connpass.com/event/70358/)|
 
 ## 執筆
 |Date|Title|Article|
 |---|-----|---|
-|2020/02|Golang x Beego x Docker x CircleCI x npmで開発環境をサクッと作ってみよう|https://qiita.com/hagyyyy/items/f55f1a4215af91d07260|
-|2018/05|Django x Docker|https://qiita.com/hagyyyy/items/466b5bab67118175be65|
-|2018/03|Dockerでローカル開発環境を作り、AWS-ECSにデプロイする|https://qiita.com/hagyyyy/items/959c115e0a5001972604|
-|2017/12|Python Djangoでherokuにデプロイしてみた|https://qiita.com/hagyyyy/items/466b5bab67118175be65|
+|2020/02|Golang x Beego x Docker x CircleCI x npmで開発環境をサクッと作ってみよう|[qiita](https://qiita.com/hagyyyy/items/f55f1a4215af91d07260)|
+|2018/05|Django x Docker|[qiita](https://qiita.com/hagyyyy/items/466b5bab67118175be65)|
+|2018/03|Dockerでローカル開発環境を作り、AWS-ECSにデプロイする|[qiita](https://qiita.com/hagyyyy/items/959c115e0a5001972604)|
+|2017/12|Python Djangoでherokuにデプロイしてみた|[qiita](https://qiita.com/hagyyyy/items/466b5bab67118175be65)|
