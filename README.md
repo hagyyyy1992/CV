@@ -248,7 +248,7 @@ Githubフローによるバージョン運用を導入し、マイナーバー�
 
 |Date|Event|Link|
 |---|-----|---|
-|2021/02/24|歪なモノリシックアプリケーションをマイクロサービスパターンで未来につなげる話|https://speakerdeck.com/hagyyyy/wai-namofalserisitukuapurikesiyonwomaikurosabisupatandewei-lai-nitunageruhua|
+|2021/02/24|歪なモノリシックアプリケーションをマイクロサービスパターンで未来につなげる話|[speakerdeck](https://speakerdeck.com/hagyyyy/wai-namofalserisitukuapurikesiyonwomaikurosabisupatandewei-lai-nitunageruhua) [logmi tech](https://logmi.jp/tech/articles/324514) |
 |2019/06/18|あるあるLT〜サーバーサイドエンジニア〜 Vol.3|https://www.slideshare.net/ssuserde3f3f/hagiwara-ltpresentation-php-and-cakephp-150282990|
 |2019/06/08|サービスリリースから安定軌道に乗せるまでに行った開発施策|https://www.slideshare.net/ssuserde3f3f/ss-149813668|
 |2018/03/26|【大学生・大学院生限定！】AWS+Dockerハンズオン|https://cloudpayment-sys.connpass.com/event/80092/|
