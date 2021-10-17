@@ -1,5 +1,6 @@
 # Curriculum-Vitae
 
+
 ## SNS情報
 
 |key|value|
@@ -14,26 +15,28 @@
 |SlideShare|https://www.slideshare.net/ssuserde3f3f|
 
 ## スキル
-
-- 言語・フレームワーク
-  - HTML,CSS
-  - JavaScript,TypeScript
-    - Vue.js
-    - Nuxt.js
-  - PHP
-    - Codeigniter
-    - CakePHP
-    - Laravel
-    - ZendFramework
+- PHP 4年以上
+  - Laravel 2020年ー現在
+  - CakePHP　2018年ー2020年
+  - ZendFramework 2020年-2021年
+  - Codeigniter　2017年-2018年
+- JavaScript　4年以上
+  - TypeScript
+  - Vue.js
+  - Nuxt.js
+  - React(既存システム改修で少し触った程度)
+  - Angular(既存システム改修で少し触った程度)
+- Go（独学のみ）
+  - A Tour of Go
+  - Beego
+  - Gin
 - RDB
   - MySQL
 - AWS
   - EC2, ECS, VPC, Route53, S3, RDS Aurora, Cloud Watch, CodeBuild, CodePipeline, IAM, SES, Elastic Beanstalk
 - その他
   - Git, Github, Circle CI, PHPUnit, Scss, BEM, Gulp, webpack, npm, package.json, SPA, Atomic Design, Storybook, Vue
-Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Makefile, Sider, pay.jp
-- プライベートで触れたことのある技術 
-  - Laravel, Python, Django, Go, Beego, Gin
+Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Makefile, Sider, pay.jp, Firebase, Realtime Database
 
 ## 強み
 
@@ -45,8 +48,9 @@ Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Mak
 - フロントエンド、バックエンド、インフラまで幅広いレイヤーの経験
 - 小規模ながらチームマネジメントを行いチームビルディング,ビジネスサイドとの調整などをしてきた経験
 - Wantedly、SNS、 勉強会、リファラルなどあらゆる手段から採用してチームを作った経験
-- スクラムでの開発経験
 - 大規模サービスの開発経験
+- リモート前提での開発チーム立ち上げ
+- スクラムでの開発経験、導入経験
 - ストレングスファインダー
   - 自我
   - 慎重さ
@@ -57,7 +61,8 @@ Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Mak
 ## 現在興味のある案件
 - PHP以外のバックエンド言語の案件（Goなど）
 - Vue以外のReact、Nuxt、Nextなどのフレームワークの案件
-- AWS全般やGCP、k8s、terraform、マイクロサービス化などもあまり知見が深くはないので本格的に触ってみたい
+- AWS全般やGCP、k8s、terraform、マイクロサービス化などもあまり知見は深くないが本格的に触ってみたい
+- 企画、技術選定、開発フロー構築、組織作りからの0→1案件
 
 ## 経歴（正社員）
 ### 2020/5 - 2021/8 : D社
