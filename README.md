@@ -16,8 +16,8 @@
 
 ## スキル
 - PHP 4年以上
-  - Laravel 2020年ー現在
-  - CakePHP　2018年ー2020年
+  - Laravel 2020年-現在
+  - CakePHP 2018年-2020年
   - ZendFramework 2020年-2021年
   - Codeigniter　2017年-2018年
 - JavaScript　4年以上
