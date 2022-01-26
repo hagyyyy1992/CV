@@ -43,12 +43,11 @@
 - PHP 4年以上
 	- Laravel 2020年-2021年
 	- CakePHP 2018年-2020年
-	- ZendFramework 2020年-2021年
 	- Codeigniter 2017年-2018年
 - その他
 	- Git, Github, Circle CI, Github Actions, PHPUnit, Scss, BEM, Gulp, webpack, npm, package.json, SPA, Atomic Design,
 		Storybook, Vue Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Makefile, Sider, pay.jp,
-		Firebase, Realtime Database, Firestore Database, Expo, AWS, GCP, MySQL, NoSQL,
+		Firebase, Realtime Database, Firestore Database, Expo, AWS, GCP, MySQL, NoSQL
 
 ## 強み
 
