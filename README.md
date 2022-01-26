@@ -40,7 +40,6 @@
 	- TypeScript 2021年- 現在
 	- React 2021年-現在
 	- Vue.js 2018年-2021年
-	- Nuxt.js 2021年
 - PHP 4年以上
 	- Laravel 2020年-2021年
 	- CakePHP 2018年-2020年
