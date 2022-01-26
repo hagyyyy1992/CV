@@ -300,7 +300,7 @@
 	- インフラ AWS ECS
 
 - 特に業務でメインで担当していた領域
-	- PHP,CodeIgniter,MySQL
+	- PHP, CodeIgniter, MySQL
 
 - エンジニア採用
 	- イベント登壇
