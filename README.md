@@ -37,21 +37,22 @@
 ## スキル
 
 - JavaScript 5年以上
-	- TypeScript 2021年- 現在
-	- React 2021年-現在
-	- Vue.js 2018年-2021年
+	- TypeScript 2021年-現在
+	- Vue.js 2018年-現在
+	- React 2020年-2021年
 - PHP 5年以上
-	- Laravel 2020年-2021年
-	- CakePHP 2018年-2020年
+	- Laravel 2020年-2022年
+	- CakePHP 2018年-2022年
 	- Codeigniter 2017年-2018年
-- その他
-	- Git, Github, Circle CI, Github Actions, PHPUnit, Scss, BEM, Gulp, webpack, npm, package.json, SPA, Atomic Design,
-		Storybook, Vue Router, Vuex, Redux, ESLint, Apache, Nginx, Docker, docker-compose, Vagrant, Makefile, Sider, pay.jp,
-		Firebase, Realtime Database, Firestore Database, Expo, AWS, GCP, MySQL, NoSQL
+- 利用したことあるPaaS,SaaS,概念など
+    - Git, Github, Circle CI, Github Actions, PHPUnit, Scss, BEM, Gulp, webpack, 
+      NPM, SPA, Atomic Design, Storybook, Vue Router, Vuex, ESLint, Docker, docker-compose, 
+      Makefile, Firebase, Realtime Database, Firestore Database, AWS, MySQL, NoSQL, 
+      BitBucket, Jira Software, 
 
-## 強み
+## 経験
 
-- PHPを用いた開発経験(Laravel,CakePHPなど)
+- PHPを用いた開発経験(Laravel,CakePHP)
 - JavaScriptを用いた開発経験(Vue.js, React)
 - 要件定義、詳細設計、実装、テスト、リリースなどの上流から下流までの一気通貫した経験
 - 環境のコンテナ化、環境構築の自動化、デバッガ環境の構築、CI環境の構築など開発効率化の経験
@@ -65,22 +66,64 @@
 - スクラムでの開発経験、導入経験
 - Expoを用いたアプリ開発経験(iOS, Android)
 - ストレングスファインダー
-	- 自我、慎重さ、分析思考、最上志向、調和性
+    - 自我、慎重さ、分析思考、最上志向、調和性
+
+## 強み/弱み
+
+### 即戦力で動ける、貢献しやすいこと
+- PHPでのWebバックエンド開発
+- Javascript/TypescriptでのWebフロントエンド開発
+- ステークホルダーと連携しながらタスクの推進
+- 開発組織作りの知見のご相談（採用、リモート、スクラム、課題など）
+
+### 即戦力ではない、やるとしたら時間を頂きたいこと
+- AWS/GCPなどクラウドインフラ基盤構築や改善提案
+- Docker/Kubernetes(k8s)などコンテナ基盤構築や改善提案
+- CI/CD改善などDevOps系の業務
+- アプリ/デスクトップアプリの開発
+- PHP/Typescript以外の技術スタックでの開発
 
 ## 希望条件
-- フルリモート案件、準委任契約のみ対応しています。
-- 5,000円/H(税別)からお請けしています。より高めの提示して頂ける場合、稼働日数の融通を効かせられます。
+- フルリモート、準委任契約で対応しています。
+- 5,000円/H(税別)からお請けしています。より高めの提示して頂ける場合は融通を効かせます。
 - 参画直後は週1~2程度でできそうなオンボーディングタスクでの稼働から様子を見て継続判断をいただければと思っています。
 - パフォーマンスに問題が無さそうと判断していただけましたら、アサインタスクのボリュームや抽象度を上げて週2~3の稼働で調整できればと思います。
 
 ## 複業/業務委託
+
+### 2022/5 - 現在
+- 案件内容
+	- 店舗接客マネジメントSaaS
+- 職務
+	- バックエンドエンジニア
+- 業務内容
+	- 不具合修正
+	- 機能開発
+- 使用技術、言語、フレームワーク
+    - PHP 8.0
+    - CakePHP 2系
+    - Vue.js 2系
+    - Typescript
+
+### 2022/3 - 現在
+- 案件内容
+	- カスタマーサクセスSaaSの開発
+- 職務
+	- バックエンドエンジニア
+- 業務内容
+	- 不具合修正
+	- 機能開発
+- 使用技術、言語、フレームワーク
+	- PHP 7.4
+	- Laravel 6系
+	- Vue.js 2系
 
 ### 2021/11 - 2022/2
 
 - 案件内容
   - 水産業支援SaaSの開発
 - 職務
-  - アプリエンジニア
+  - アプリ開発
   - バックエンドエンジニア
   - DevOps
 - 業務内容
