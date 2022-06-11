@@ -43,21 +43,18 @@
 - JavaScript 5年以上
 	- TypeScript 2021年-現在
 	- Vue.js 2018年-現在
-	- React 2020年-2021年
 - PHP 5年以上
 	- Laravel 2020年-2022年
 	- CakePHP 2018年-2022年
-	- Codeigniter 2017年-2018年
 - 利用したことあるPaaS,SaaS,概念など
     - Git, Github, Circle CI, Github Actions, PHPUnit, Scss, BEM, Gulp, webpack, 
       NPM, SPA, Atomic Design, Storybook, Vue Router, Vuex, ESLint, Docker, docker-compose, 
-      Makefile, Firebase, Realtime Database, Firestore Database, AWS, MySQL, NoSQL, 
-      BitBucket, Jira Software, 
+      Firebase, Realtime Database, Firestore Database, AWS, MySQL, NoSQL, BitBucket, Jira Software, 
 
 ## 経験
 
 - PHPを用いた開発経験(Laravel,CakePHP)
-- JavaScriptを用いた開発経験(Vue.js, React)
+- JavaScriptを用いた開発経験(Vue.js)
 - 要件定義、詳細設計、実装、テスト、リリースなどの上流から下流までの一気通貫した経験
 - 環境のコンテナ化、環境構築の自動化、デバッガ環境の構築、CI環境の構築など開発効率化の経験
 - git-flowでのバージョン管理、Staging環境、プロジェクト管理ツールなどの導入して運用フローを構築した経験
@@ -74,8 +71,8 @@
 
 ## 得意なこと
 以下は特に即戦力で貢献しやすいです。
-- PHPでのWebバックエンド開発
-- Javascript/TypescriptでのWebフロントエンド開発
+- PHP/Laravel/CakePHPでのWebバックエンド開発
+- Javascript/Typescript/Vue.jsでのWebフロントエンド開発
 
 ## 得意ではないこと
 全く経験が無いわけではないですが即戦力での貢献がしにくいです。 <br/>
