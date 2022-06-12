@@ -80,7 +80,7 @@
 - AWS/GCPなどクラウドインフラ基盤構築や改善提案
 - Docker/Kubernetes(k8s)などコンテナ基盤構築や改善提案
 - CI/CD改善などDevOps系の業務
-- アプリ/デスクトップアプリの開発
+- iOS/Android/Desktopアプリの開発
 - PHP/Typescript以外の技術スタックでの開発
 - セキュリティやネットワーク周りの専門性が必要な開発
 
