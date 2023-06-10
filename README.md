@@ -47,14 +47,14 @@
 ## スキル
 
 - JavaScript 5年以上
-	- Vue.js 2018年~
-    - React 2021年~
-	- TypeScript 2021年~
+  - Vue.js 2018年~
+  - React 2021年~
+  - TypeScript 2021年~
 - PHP 5年以上
-	- CakePHP 2018年~
-	- Laravel 2020年~
+  - CakePHP 2018年~
+  - Laravel 2020年~
 - 利用したことあるPaaS,SaaS,概念など
-    - Git, Github, Circle CI, Github Actions, PHPUnit, Scss, BEM, Gulp, webpack, 
+  - Git, Github, Circle CI, Github Actions, PHPUnit, Scss, BEM, Gulp, webpack, 
       NPM, SPA, Atomic Design, Storybook, Vue Router, Vuex, ESLint, Docker, docker-compose, 
       Firebase, Realtime Database, Firestore Database, AWS, MySQL, NoSQL, BitBucket, Jira Software, 
 
@@ -84,13 +84,12 @@
 - スクラムでの開発経験、導入経験
 
 ## 貢献しやすいこと
-以下は特に即戦力で貢献しやすいです。
+特に即戦力として貢献しやすいです。
 - PHPでのバックエンド開発
 - Javascript/Typescriptでのフロントエンド/バックエンド開発
 
 ## 貢献しにくいこと
-全く経験が無いわけではないですが即戦力での貢献がしにくいです。 <br/>
-じっくり取り組める、キャッチアップできるならチャレンジしたい内容ではあります。
+全く経験がないわけではないですが専門にはしてないので即戦力にはなりにくいです。
 - AWS/GCPなどクラウドインフラ基盤構築や改善提案
 - Docker/Kubernetes(k8s)などコンテナ基盤構築や改善提案
 - CI/CD改善などDevOps系の業務
@@ -112,7 +111,8 @@
 - Web開発支援のご依頼の場合
   - 準委任契約
   - フルリモート
-  - 6,000円/H(税別)または月額固定報酬100万以上
+  - スポット支援の場合、6,000円/H(税別)
+  - フルタイム支援の場合、月額100万以上
 - Webシステム制作のご依頼の場合
   - 請負契約
   - 報酬は規模感に応じてご相談
