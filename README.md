@@ -43,6 +43,7 @@
 |LinkedIn|https://www.linkedin.com/in/hagyyyy1992/|
 |SlideShare|https://www.slideshare.net/ssuserde3f3f|
 |Qiita|https://qiita.com/hagyyyy1992|
+|Email|keiichi.hagiwara.1992@gmail.com|
 
 ## スキル
 
