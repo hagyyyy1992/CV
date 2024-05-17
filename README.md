@@ -108,7 +108,7 @@ Webサービスを実装するエンジニアとしてフロント・バック�
   - 介護医療領域に特化した新規プロダクトの開発支援
     - DB設計
     - スクレイピングロジック実装
-    - 検索エンジンを活用したデータ処理実装
+    - 検索エンジンを活用したデータ検索処理実装
     - LINE APIを活用したUI修正
   - プロダクトの仕様策定のためのMTGのファシリテーションやまとめなど
   - プロダクトに必要な運用の提案など
@@ -119,12 +119,12 @@ Webサービスを実装するエンジニアとしてフロント・バック�
   - Python
   - TypeScript
   - NestJS
-  - ChatGPT
+  - OpenAI API
   - LINE Message API
   - Qdrant
   - Selenium
   - Beautiful Soup
-  - clean architecture
+  - Clean Architecture
   - Argo CD
   - Grafana
   - Datadog
