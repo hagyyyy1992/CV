@@ -1,4 +1,4 @@
-# Curriculum-Vitae
+# 職務経歴書
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -34,7 +34,7 @@
 
 |key|value|
 |---|-----|
-|Name|萩原圭市(Keiichi Hagiwara)|
+|FullName|萩原圭市(Keiichi Hagiwara)|
 |Email|keiichi.hagiwara.1992@gmail.com|
 |Facebook|https://www.facebook.com/hagyyyy1992|
 |Wantedly|https://www.wantedly.com/id/hagyyyy1992|
