@@ -35,15 +35,9 @@
 |key|value|
 |---|-----|
 |Name|萩原圭市(Keiichi Hagiwara)|
-|Twitter|https://twitter.com/hagyyyy1992|
-|Facebook|https://www.facebook.com/hagyyyy1992/|
-|Wantedly|https://www.wantedly.com/id/hagyyyy1992|
-|Lapras|https://lapras.com/public/ATPELLF|
-|Offers|https://offers.jp/pub/w/gVS5GhBTd8DztCcnJRxdjmtt|
-|LinkedIn|https://www.linkedin.com/in/hagyyyy1992/|
-|SlideShare|https://www.slideshare.net/ssuserde3f3f|
-|Qiita|https://qiita.com/hagyyyy1992|
 |Email|keiichi.hagiwara.1992@gmail.com|
+|Facebook|https://www.facebook.com/hagyyyy1992|
+|Wantedly|https://www.wantedly.com/id/hagyyyy1992|
 
 ## 概要
 2017年からエンジニアをしています。<br>
@@ -81,11 +75,11 @@ Webサービスを実装するエンジニアとしてフロント・バック�
 - スクラムでの開発経験、導入経験
 
 ## 貢献しやすいこと
-- PHP/Python/TypeScriptでのバックエンド開発
+- TypeScript/Pythonでのバックエンド開発
 - DB、プロダクト仕様などの詳細設計
 
 ## 貢献しにくいこと
-インフラ、フロントエンド、アプリは経験がないわけではないですがスキルマッチはしてないです。<br>
+インフラ、アプリは経験がないわけではないですがスキルマッチはしてないです。<br>
 リサーチしながらでの対応なら可能です。
 - AWS/GCPなどクラウドインフラ基盤構築や改善提案
 - Docker/Kubernetes(k8s)などコンテナ基盤構築や改善提案
