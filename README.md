@@ -128,8 +128,9 @@ Webサービスを実装するエンジニアとしてフロント・バック�
     - 新規APIの設計と実装、APIとフロントの繋ぎ込み、UI実装
       - PDFをアップロードして保存、保存したPDFを請求書に添付、設定画面で確認できる機能
       - 入金情報を登録する機能（csv/txtアップロード、全銀フォーマットの解析など）
+      - 事業所利用者のイベント管理機能(要求要件整理、DB設計、API開発、画面繋ぎこみ、一部UI実装)
     - 技術スタック
-      - Nest.js、GraphQL、Next.js、CleanArchitecture
+      - Nest.js、GraphQL、React、Next.js、CleanArchitecture
 - 使用技術、言語、フレームワーク
   - Python
   - FastAPI
