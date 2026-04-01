@@ -1,7 +1,7 @@
 # 職務経歴書
 
 <p align="center">
-  <img src="https://hagyyyy1992.github.io/CV/banner.svg" alt="Keiichi Hagiwara - Backend Engineer" width="800" />
+  <img src="./banner.svg" alt="Keiichi Hagiwara - Backend Engineer" width="800" />
 </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
