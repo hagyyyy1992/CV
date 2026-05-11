@@ -625,7 +625,6 @@ Hagyyyy株式会社としての法人契約（準委任契約）、フルリモ�
 |---|-----|---|
 |2026/01|Prismaのトランザクション管理をリポジトリ層からユースケース層へ移行した設計改善|[hagyyyy.me.blog](https://www.hagyyyy.me/posts/prisma-transaction-refactoring-from-repository-to-usecase)|
 |2026/01|AI駆動開発で技術ブログを構築 - Claude Code × Gemini の実践録|[hagyyyy.me.blog](https://www.hagyyyy.me/posts/ai-powered-tech-blog-development)|
-|2020/02|Golang x Beego x Docker x CircleCI x npmで開発環境をサクッと作ってみよう|[qiita](https://qiita.com/hagyyyy/items/f55f1a4215af91d07260)|
 |2018/05|Django x Docker|[qiita](https://qiita.com/hagyyyy/items/466b5bab67118175be65)|
 |2018/03|Dockerでローカル開発環境を作り、AWS-ECSにデプロイする|[qiita](https://qiita.com/hagyyyy/items/959c115e0a5001972604)|
 |2017/12|Python Djangoでherokuにデプロイしてみた|[qiita](https://qiita.com/hagyyyy/items/466b5bab67118175be65)|
