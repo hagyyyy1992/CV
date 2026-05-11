@@ -242,8 +242,7 @@ Hagyyyy株式会社としての法人契約（準委任契約）、フルリモ�
     - パフォーマンス改善
       - N+1問題解消
       - 複雑なトランザクション管理のための設計改善
-    - SOLID原則・クリーンアーキテクチャに基づいた設計
-    - E2EテストのCIへの組み込み（マージチェック時自動実行）
+    - クリーンアーキテクチャに基づいた設計
 - 使用技術、言語、フレームワーク
   - TypeScript
   - NestJS
@@ -262,7 +261,7 @@ Hagyyyy株式会社としての法人契約（準委任契約）、フルリモ�
     - 新規プロダクトの立ち上げ開発
       - DB設計
       - Python、Selenium、Beautiful Soupでのスクレイピングロジック実装
-      - OpenAI API、Qdrantを活用したデータ検索処理実装
+      - Azure OpenAI API、Qdrantを活用したデータ検索処理実装
       - LINE APIを活用したUI修正
       - テストコードの実装
       - プロダクトの仕様策定のためのMTGのファシリテーションやまとめなど
@@ -285,7 +284,7 @@ Hagyyyy株式会社としての法人契約（準委任契約）、フルリモ�
   - GraphQL
   - Prisma
   - Tailwind CSS
-  - OpenAI API
+  - Azure OpenAI API
   - LINE Message API
   - Qdrant
   - Selenium
