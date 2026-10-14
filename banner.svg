@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <style>
+    
+    .reveal0 {
+      animation: reveal0 2.56s steps(32) 0.00s forwards;
+    }
+    @keyframes reveal0 {
+      from { width: 0; }
+      to { width: 269px; }
+    }
+    .reveal1 {
+      animation: reveal1 2.72s steps(34) 2.56s forwards;
+    }
+    @keyframes reveal1 {
+      from { width: 0; }
+      to { width: 286px; }
+    }
+    .reveal2 {
+      animation: reveal2 3.28s steps(41) 5.28s forwards;
+    }
+    @keyframes reveal2 {
+      from { width: 0; }
+      to { width: 344px; }
+    }
+    .reveal3 {
+      animation: reveal3 3.04s steps(38) 8.56s forwards;
+    }
+    @keyframes reveal3 {
+      from { width: 0; }
+      to { width: 319px; }
+    }
+    .reveal4 {
+      animation: reveal4 5.52s steps(69) 11.60s forwards;
+    }
+    @keyframes reveal4 {
+      from { width: 0; }
+      to { width: 580px; }
+    }
+    .reveal5 {
+      animation: reveal5 3.20s steps(40) 17.12s forwards;
+    }
+    @keyframes reveal5 {
+      from { width: 0; }
+      to { width: 336px; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes cursorAppear {
+      0%, 99.9% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    .cursor {
+      opacity: 0;
+      transform: translate(402.0px, 208px);
+      animation: cursorAppear 20.32s forwards, blink 1s step-end 20.32s infinite;
+    }
+  </style>
+
+  <defs>
+    
+    <clipPath id="clip0">
+      <rect class="reveal0" x="66" y="74" width="0" height="26" />
+    </clipPath>
+    <clipPath id="clip1">
+      <rect class="reveal1" x="66" y="100" width="0" height="26" />
+    </clipPath>
+    <clipPath id="clip2">
+      <rect class="reveal2" x="66" y="126" width="0" height="26" />
+    </clipPath>
+    <clipPath id="clip3">
+      <rect class="reveal3" x="66" y="152" width="0" height="26" />
+    </clipPath>
+    <clipPath id="clip4">
+      <rect class="reveal4" x="66" y="178" width="0" height="26" />
+    </clipPath>
+    <clipPath id="clip5">
+      <rect class="reveal5" x="66" y="204" width="0" height="26" />
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="300" fill="#1e1e1e"/>
+
+  <!-- Title bar -->
+  <rect width="800" height="30" fill="#323233"/>
+  <circle cx="16" cy="15" r="6" fill="#ff5f56"/>
+  <circle cx="36" cy="15" r="6" fill="#ffbd2e"/>
+  <circle cx="56" cy="15" r="6" fill="#27c93f"/>
+  <text font-family="'Courier New', 'Consolas', monospace" fill="#858585" font-size="12"
+    dominant-baseline="middle" x="400" y="15" text-anchor="middle">profile.js — hagyyyy1992/CV</text>
+
+  <!-- Tab bar -->
+  <rect x="0" y="30" width="800" height="35" fill="#2d2d2d"/>
+  <!-- Active tab -->
+  <rect x="0" y="30" width="160" height="34" fill="#1e1e1e"/>
+  <rect x="0" y="30" width="160" height="2" fill="#007acc"/>
+  <text font-family="'Courier New', 'Consolas', monospace" fill="#ffffff" font-size="12"
+    dominant-baseline="middle" x="28" y="47">JS</text>
+  <text font-family="'Courier New', 'Consolas', monospace" fill="#d4d4d4" font-size="12"
+    dominant-baseline="middle" x="48" y="47">profile.js</text>
+  <!-- Inactive tab -->
+  <rect x="160" y="30" width="140" height="34" fill="#2d2d2d"/>
+  <line x1="160" y1="30" x2="160" y2="65" stroke="#474747" stroke-width="1"/>
+  <text font-family="'Courier New', 'Consolas', monospace" fill="#858585" font-size="12"
+    dominant-baseline="middle" x="188" y="47">README.md</text>
+
+  <!-- Gutter background -->
+  <rect x="0" y="65" width="50" height="213" fill="#1e1e1e"/>
+
+  <!-- Active line highlight -->
+  <rect x="50" y="74" width="750" height="26" fill="#2a2d2e" opacity="0.5"/>
+
+  <!-- Gutter separator -->
+  <line x1="50" y1="65" x2="50" y2="278" stroke="#404040" stroke-width="1" opacity="0.5"/>
+
+  <!-- Code lines -->
+  
+    <text font-family="'Courier New', 'Consolas', monospace" fill="#c6c6c6" font-size="13"
+      dominant-baseline="middle" x="42" y="87" text-anchor="end">1</text>
+    <text clip-path="url(#clip0)" font-family="'Courier New', 'Consolas', monospace" font-size="14"
+      dominant-baseline="middle" y="87"><tspan x="66.0" fill="#569cd6">const</tspan><tspan x="108.0" fill="#9cdcfe"> name </tspan><tspan x="158.4" fill="#d4d4d4">= </tspan><tspan x="175.2" fill="#ce9178">&quot;Keiichi Hagiwara&quot;</tspan><tspan x="326.4" fill="#d4d4d4">;</tspan></text>
+    <text font-family="'Courier New', 'Consolas', monospace" fill="#858585" font-size="13"
+      dominant-baseline="middle" x="42" y="113" text-anchor="end">2</text>
+    <text clip-path="url(#clip1)" font-family="'Courier New', 'Consolas', monospace" font-size="14"
+      dominant-baseline="middle" y="113"><tspan x="66.0" fill="#569cd6">const</tspan><tspan x="108.0" fill="#9cdcfe"> role </tspan><tspan x="158.4" fill="#d4d4d4">= </tspan><tspan x="175.2" fill="#ce9178">&quot;Software Developer&quot;</tspan><tspan x="343.2" fill="#d4d4d4">;</tspan></text>
+    <text font-family="'Courier New', 'Consolas', monospace" fill="#858585" font-size="13"
+      dominant-baseline="middle" x="42" y="139" text-anchor="end">3</text>
+    <text clip-path="url(#clip2)" font-family="'Courier New', 'Consolas', monospace" font-size="14"
+      dominant-baseline="middle" y="139"><tspan x="66.0" fill="#569cd6">const</tspan><tspan x="108.0" fill="#9cdcfe"> experience </tspan><tspan x="208.8" fill="#d4d4d4">= </tspan><tspan x="225.6" fill="#b5cea8">8</tspan><tspan x="234.0" fill="#d4d4d4">; </tspan><tspan x="250.8" fill="#6a9955">// years since 2017</tspan></text>
+    <text font-family="'Courier New', 'Consolas', monospace" fill="#858585" font-size="13"
+      dominant-baseline="middle" x="42" y="165" text-anchor="end">4</text>
+    <text clip-path="url(#clip3)" font-family="'Courier New', 'Consolas', monospace" font-size="14"
+      dominant-baseline="middle" y="165"><tspan x="66.0" fill="#569cd6">const</tspan><tspan x="108.0" fill="#9cdcfe"> company </tspan><tspan x="183.6" fill="#d4d4d4">= </tspan><tspan x="200.4" fill="#ce9178">&quot;Hagyyyy Inc.&quot;</tspan><tspan x="318.0" fill="#d4d4d4">; </tspan><tspan x="334.8" fill="#6a9955">// CEO</tspan></text>
+    <text font-family="'Courier New', 'Consolas', monospace" fill="#858585" font-size="13"
+      dominant-baseline="middle" x="42" y="191" text-anchor="end">5</text>
+    <text clip-path="url(#clip4)" font-family="'Courier New', 'Consolas', monospace" font-size="14"
+      dominant-baseline="middle" y="191"><tspan x="66.0" fill="#569cd6">const</tspan><tspan x="108.0" fill="#9cdcfe"> skills </tspan><tspan x="175.2" fill="#d4d4d4">= [</tspan><tspan x="200.4" fill="#ce9178">&quot;TypeScript&quot;</tspan><tspan x="301.2" fill="#d4d4d4">, </tspan><tspan x="318.0" fill="#ce9178">&quot;Next.js&quot;</tspan><tspan x="393.6" fill="#d4d4d4">, </tspan><tspan x="410.4" fill="#ce9178">&quot;Node.js&quot;</tspan><tspan x="486.0" fill="#d4d4d4">, </tspan><tspan x="502.8" fill="#ce9178">&quot;PHP&quot;</tspan><tspan x="544.8" fill="#d4d4d4">, </tspan><tspan x="561.6" fill="#ce9178">&quot;Python&quot;</tspan><tspan x="628.8" fill="#d4d4d4">];</tspan></text>
+    <text font-family="'Courier New', 'Consolas', monospace" fill="#858585" font-size="13"
+      dominant-baseline="middle" x="42" y="217" text-anchor="end">6</text>
+    <text clip-path="url(#clip5)" font-family="'Courier New', 'Consolas', monospace" font-size="14"
+      dominant-baseline="middle" y="217"><tspan x="66.0" fill="#569cd6">const</tspan><tspan x="108.0" fill="#9cdcfe"> passion </tspan><tspan x="183.6" fill="#d4d4d4">= </tspan><tspan x="200.4" fill="#ce9178">&quot;AI-Driven Development&quot;</tspan><tspan x="393.6" fill="#d4d4d4">;</tspan></text>
+
+  <!-- Blinking cursor -->
+  <rect class="cursor" width="2" height="18" fill="#aeafad" rx="0"/>
+
+  <!-- Status bar -->
+  <rect x="0" y="278" width="800" height="22" fill="#007acc"/>
+  <text font-family="'Courier New', 'Consolas', monospace" fill="#ffffff" font-size="11"
+    dominant-baseline="middle" x="10" y="289">main</text>
+  <text font-family="'Courier New', 'Consolas', monospace" fill="#ffffff" font-size="11"
+    dominant-baseline="middle" x="790" y="289" text-anchor="end">JavaScript | UTF-8 | LF</text>
+</svg>
