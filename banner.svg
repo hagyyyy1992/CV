@@ -128,7 +128,7 @@
     <text font-family="'Courier New', 'Consolas', monospace" fill="#858585" font-size="13"
       dominant-baseline="middle" x="42" y="139" text-anchor="end">3</text>
     <text clip-path="url(#clip2)" font-family="'Courier New', 'Consolas', monospace" font-size="14"
-      dominant-baseline="middle" y="139"><tspan x="66.0" fill="#569cd6">const</tspan><tspan x="108.0" fill="#9cdcfe"> experience </tspan><tspan x="208.8" fill="#d4d4d4">= </tspan><tspan x="225.6" fill="#b5cea8">8</tspan><tspan x="234.0" fill="#d4d4d4">; </tspan><tspan x="250.8" fill="#6a9955">// years since 2017</tspan></text>
+      dominant-baseline="middle" y="139"><tspan x="66.0" fill="#569cd6">const</tspan><tspan x="108.0" fill="#9cdcfe"> experience </tspan><tspan x="208.8" fill="#d4d4d4">= </tspan><tspan x="225.6" fill="#b5cea8">9</tspan><tspan x="234.0" fill="#d4d4d4">; </tspan><tspan x="250.8" fill="#6a9955">// years since 2017</tspan></text>
     <text font-family="'Courier New', 'Consolas', monospace" fill="#858585" font-size="13"
       dominant-baseline="middle" x="42" y="165" text-anchor="end">4</text>
     <text clip-path="url(#clip3)" font-family="'Courier New', 'Consolas', monospace" font-size="14"
