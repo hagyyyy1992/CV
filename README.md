@@ -97,6 +97,7 @@
 **AI活用・開発改善**
 
 <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /></a>
+<a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" /></a>
 <a href="https://git-scm.com/docs/git-worktree"><img src="https://img.shields.io/badge/Git_Worktree-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Worktree" /></a>
 
 Azure OpenAI API・Qdrantでは、検索データの取得・加工・登録更新とAPI改修を担当。Terraformは自社サービスで導入・運用しており、業務委託案件では未使用です。AI開発ツールはClaude Codeに加えてCodexも利用しています。
